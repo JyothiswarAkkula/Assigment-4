@@ -1,0 +1,126 @@
+.jyo {
+    border: 9px solid black;
+    color: blueviolet;
+    background-color: palegreen;
+    border-radius: 15px;
+    font-family: poppins, sans-serif;
+    padding: 10px;
+    text-align: left;
+}
+
+.jyo1 {
+    border: 10px double black;
+    background-color: whitesmoke;
+    padding: 10px;
+    border-radius: 15px;
+    color: red;
+    text-align: end;
+    font-family: poppins, sans-serif;
+}
+.jyo2
+{
+    border: 10px dotted palevioletred;
+    color: blueviolet;
+    background-color: chartreuse;
+    font-family: poppins, sans-serif;
+    padding: 10px;
+    border-radius: 35px;
+    text-align: inherit;
+    
+}
+.jyo3
+{
+    border: 10px dashed red;
+    background-color: aqua;
+    font-family: poppins, sans-serif;
+    color: black;
+    padding: 10px;
+    border-radius: 25px;
+}
+.jyo4
+{
+    font-family: poppins, sans-serif;
+    border: 25px groove black;
+    padding: 10px;
+    border-radius: 40px;
+    background-color: white;
+    color: black;
+    text-align: calc(12);
+}
+.jyo5
+{
+    font-family: poppins, sans-serif;
+    border: 20px ridge black;
+    padding: 30px;
+    border-radius: 30px;
+    background-color:tomato;
+    color:brown;
+    border-radius: 50px;
+    font-weight: 20px;
+    font-size: 20px;
+}
+.jyo6
+{
+    font-family: poppins, sans-serif;
+    border: 20px inset pink; 
+    border-radius: 70px;
+    background-color: black;
+    padding: 20px;
+    color: wheat;
+
+}
+.jyo7
+{
+    font-family: poppins, sans-serif;
+    border: 30px outset tomato;
+    background-color: blueviolet;
+    color: aliceblue;
+    padding: 30px;
+    border-radius: 25px;
+
+}
+.jyo8
+{
+    border: 9px solid black;
+    color: blueviolet;
+    background-color: palegreen;
+    border-radius: 10px;
+    font-family: poppins, sans-serif;
+    padding: 10px;
+    text-align: center;
+    border-top: 20px;
+    
+}
+.jyo11
+{
+    border: 9px solid black;
+    color: blueviolet;
+    background-color: palegreen;
+    border-radius: 10px;
+    font-family: poppins, sans-serif;
+    padding: 10px;
+    text-align: left;
+    border-right: 20px;
+}
+.jyo10
+{
+    border: 9px solid black;
+    color: blueviolet;
+    background-color: palegreen;
+    border-radius: 10px;
+    font-family: poppins, sans-serif;
+    padding: 10px;
+    text-align: right;
+    border-left: 20px;
+}
+.jyo9
+{
+    border: 9px solid black;
+    color: blueviolet;
+    background-color: palegreen;
+    border-radius: 15px;
+    font-family: poppins, sans-serif;
+    padding: 10px;
+    text-align:center;
+    border-bottom:20px ;
+}
